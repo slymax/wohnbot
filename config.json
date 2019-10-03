@@ -1,0 +1,6 @@
+{
+    "username": "USERNAME",
+    "password": "PASSWORD",
+    "schedule": "0 */6 * * *",
+    "delay": 2500
+}
